@@ -1,0 +1,7 @@
+{
+  "name": "FinFlex - Financial Discipline Architect",
+  "description": "A mobile-first wealth-building coach that transforms mindless spending into financial freedom through daily safe spend tracking and wealth runway metrics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
